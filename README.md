@@ -1,6 +1,6 @@
 # Red_Tracker
 
-There are three python files within master:
+There are three python files within master branch:
 
 redtracker.py
 slopes.py
